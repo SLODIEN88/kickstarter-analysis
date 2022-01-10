@@ -1,7 +1,4 @@
-# Kickstarting with Excel[Kickstarter_Challenge - 1.xlsx](https://github.com/SLODIEN88/kickstarter-analysis/files/7836983/Kickstarter_Challenge.-.1.xlsx)
-![Outcomes Based on Launch Date Chart](https://user-images.githubusercontent.com/96274446/148723052-f01cdf49-ebd2-4a78-a9f7-e96758eae7ec.png)
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/96274446/148723074-f1761458-584a-4527-bd87-b3860888e36e.png)
-
+# Kickstarting with Excel[Kickstarter_Challenge - 1.xlsx](https://github.com/SLODIEN88/kickstarter-analysis/files/7836983/Kickstarter_Challenge.-.1.xlsx
 
 ## Overview of Project
 
