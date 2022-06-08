@@ -1,4 +1,4 @@
-# Kickstarting with Excel[Kickstarter_Challenge - 1.xlsx](https://github.com/SLODIEN88/kickstarter-analysis/files/7836983/Kickstarter_Challenge.-.1.xlsx
+
 
 ## Overview of Project
 
