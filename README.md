@@ -1,8 +1,9 @@
 
-
 ## Overview of Project
 
 ### Purpose
+
+The purpose of this project was to compare the results of fundraising campaigns based on their launch dates and their funding goals. By looking at the trends of theaters and plays to determine the successful, failed, and cancelled campaigns: outcomes based on goals and outcomes based on launch date.
 
 ## Analysis and Challenges
 
